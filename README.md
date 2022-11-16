@@ -1,3 +1,8 @@
+# IMPORTANT NOTE
+
+This library is **deprecated**. To keep using BLE for IoTize Cordova Apps, see the new plugin here:
+[@iotize/device-com-ble.cordova](https://www.npmjs.com/package/@iotize/device-com-ble.cordova)
+
 # Bluetooth Low Energy (BLE) for IoTize devices Plugin for Apache Cordova
 
 This plugin enables communication between a mobile and a BLE enabled IOTIZE device.
